@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "find -empty | rev | cut -d/ -fi |"
+find -empty | rev | cut -d/ -fi |
